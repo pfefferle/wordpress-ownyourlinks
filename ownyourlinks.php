@@ -9,6 +9,7 @@
  * License: MIT
  * License URI: http://opensource.org/licenses/MIT
  * Text Domain: ownyourlinks
+ * Update URI: https://github.com/pfefferle/wordpress-ownyourlinks/
  */
 
 namespace OwnYourLinks;
